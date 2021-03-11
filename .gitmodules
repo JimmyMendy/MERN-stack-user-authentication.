@@ -1,0 +1,3 @@
+[submodule "MERN-Auth"]
+	path = MERN-Auth
+	url = /Users/jimmymendy/dev/MERN-Auth/client/.git/
